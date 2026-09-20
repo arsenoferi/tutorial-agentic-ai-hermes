@@ -63,7 +63,7 @@ Dua jalur paralel (boleh selang-seling per minggu, bukan sekuensial):
 | 3. Builder Framework | 6-8 minggu | Minggu 17-24 |
 | 4. Terapan/Pilot | 8-12 minggu (awal) | Minggu 25-36+ |
 
-**Total sampai pilot pertama: ±6-8 bulan.** Review checkpoint tiap 4-6 minggu (apakah pace cukup, apakah stage perlu di-adjust) — catat progresnya sbg file baru di folder `data_pribadi/Kurikulum_Agentic_AI/` mengikuti pola `Learn_Hermes` (NN_Stage-X_topik.md).
+**Total sampai pilot pertama: ±6-8 bulan.** Review checkpoint tiap 4-6 minggu (apakah pace cukup, apakah stage perlu di-adjust) — catat progresnya sbg file baru di folder `Data Pribadi/Kurikulum_Agentic_AI/` mengikuti pola `Learn_Hermes` (NN_Stage-X_topik.md).
 
 ## Catatan Penting
 - Stage 1 SUDAH punya roadmap detail terpisah — jangan duplikat, langsung lanjutkan `Learn_Hermes/00_Roadmap_dan_Asesmen_Level_Saat_Ini.md`
