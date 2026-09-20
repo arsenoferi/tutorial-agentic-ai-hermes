@@ -1,4 +1,4 @@
-# Stage 0 — Tutorial Praktik: Bikin Agent Paling Sederhana
+[^1]# Stage 0 — Tutorial Praktik: Bikin Agent Paling Sederhana
 **Tujuan:** dalam 30-45 menit, punya 1 program Python yang benar-benar "agentic" (bukan cuma chatbot) — LLM yang bisa BACA data & AMBIL keputusan sendiri.
 **Gaya:** tutorial step-by-step, dikerjakan sendiri (Jarvis siap bantu kalau stuck di langkah manapun — tinggal kirim pesan error/screenshot).
 
